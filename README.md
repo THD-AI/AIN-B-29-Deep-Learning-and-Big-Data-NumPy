@@ -2,7 +2,20 @@
   <img src=".github/banner.png" alt="chexvision-mini – a hand-drawn banner: a notebook with a small neural network sketched in it, beside a chest X-ray and a calculator" width="100%">
 </p>
 
-# chexvision-mini
+# Deep Learning/Big Data – CheXVision Mini
+
+## Course context
+
+B.Sc. Artificial Intelligence (AIN-B), Deggendorf Institute of Technology.
+
+| Module code | Course | Scheduled semester |
+| --- | --- | --- |
+| AIN-B-29 | Deep Learning/Big Data | 6 |
+
+Companion implementation to CheXVision, exploring neural networks in NumPy; not a separate course.
+
+Module details follow the [official AIN-B handbook](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-b-ws25-26.pdf) (7 September 2026 edition). Semester refers to the curriculum, not the author's completion date. See the [THD AI course map](https://github.com/THD-AI/.github/blob/main/COURSES.md) for sources and related projects. This community fork preserves the original authors, licence, and project branding.
+
 
 A **true from-scratch neural network in pure NumPy** – every forward pass *and*
 every gradient is derived and coded by hand, with **no autograd and no deep-
